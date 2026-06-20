@@ -1,0 +1,13 @@
+name: clawgenius-coder
+version: 0.1.0
+description: Production software engineering and DevOps agent
+hermes_requires: '>=0.12.0'
+author: ClawGenius
+license: Proprietary
+env_requires: []
+distribution_owned:
+- SOUL.md
+- skills/
+- cron/
+- mcp.json
+- distribution.yaml
