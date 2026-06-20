@@ -1,5 +1,5 @@
 name: clawgenius-coder
-version: 0.1.0
+version: 0.1.1
 description: Production software engineering and DevOps agent
 hermes_requires: '>=0.12.0'
 author: ClawGenius
